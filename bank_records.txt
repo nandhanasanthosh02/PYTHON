@@ -1,0 +1,3 @@
+AccountHolder,IFSC,Balance
+nami,4555gh623565,10000.0
+Namitha,543SF6564,1000.0
